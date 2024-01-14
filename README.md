@@ -2,6 +2,11 @@
 
 This program solves the Knight's Tour problem using a probabilistic algorithm.
 
+# Contributors
+  [***Yasin ATLI***](https://github.com/TheRealLowyer) \
+  [***Enes BAŞER***](https://github.com/EnesBaserr)
+
+
 ## Requirements
 
 - Python 3.x
